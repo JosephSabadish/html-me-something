@@ -1,23 +1,23 @@
 header
 {
-background-color: yellow;
-font-family: cursive;
-margin: 50px;
-padding: 50px;
+ background-color: yellow;
+ font-family: cursive;
+ margin: 50px;
+ padding: 50px;
 }
 
 
 .intro
 {
-background-color: cyan;
-margin: 50px;
-padding: 50px;
+ background-color: cyan;
+ margin: 50px;
+ padding: 50px;
 }
 
 .introtwo
 {
-margin: 50px;
-padding: 50px;
+ margin: 50px;
+ padding: 50px;
 }
 
 #About {
